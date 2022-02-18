@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882018731156",
+    "project_id": "proyecto-mensajeria-fc7fd",
+    "storage_bucket": "proyecto-mensajeria-fc7fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882018731156:android:83555e248c5942e237a081",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_mensajeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882018731156-6b99q2422r6mg417olobu1ade5dl4jbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_mensajeria",
+            "certificate_hash": "bd19eda14efa8ba9fc2d6b1d44e478bcfa55b2a7"
+          }
+        },
+        {
+          "client_id": "882018731156-tapefmspbfq9v4mad75ftv4l4gbidt9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCps_4qGsodi5puU68qG1-2Dw-dZp4RNAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882018731156-tapefmspbfq9v4mad75ftv4l4gbidt9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
